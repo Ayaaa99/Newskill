@@ -5,6 +5,6 @@ import org.junit.Assert;
 public class JunitTest {
     @Test
     public void subtraction(){
-        assertEquals(1, Javafile.minus(3));
+        assertEquals(2, Javafile.minus(3));
     }
 }
